@@ -1,10 +1,10 @@
 # Live (master)
-https://gentle-lollipop-7012db.netlify.app/
+https://gregarious-fenglisu-8e7a5e.netlify.app/
 
 # Design
-[link](https://drive.google.com/drive/folders/1q2CFXTNXL_uhUCIutQBPM_lCWsb0yIBw)
+[link](https://drive.google.com/drive/folders/1BNSuRS_XRLim0uzsfrxswrpPnC9wdmL9)
 
-![image](https://github.com/eStoreLabs/230524-RB-78-Durex-Invisible-Regular-MASTER/assets/130984276/de901a9f-0e6f-4b39-90c2-e3556e930a12)
+![image](https://github.com/eStoreLabs/230524-RB-78-Durex-Invisible-Regular-10-MASTER/assets/130984276/b1584a91-b534-4d42-b1a5-beac533f849e)
 
 ![image](https://github.com/eStoreLabs/230524-RB-78-Durex-Invisible-Regular-MASTER/assets/130984276/1ff8cf6e-a68a-4a40-9677-a02ca186dbac)
 
